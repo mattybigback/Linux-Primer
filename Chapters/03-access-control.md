@@ -1,7 +1,5 @@
 # Access Control
-Linux uses a system of users and groups to handle access control. Each user has a unique UID and an associated user name. Users can be added to groups, which have a unique GID.
-
-Files and directories have permissions metadata that controls which users and groups can interact with them.
+Files and directories in Linux have permissions metadata that controls which users and groups can interact with them.
 
 ## File and directory permissions
 

@@ -15,7 +15,7 @@ PS	Windows Powershell
 
 ## Chapters
 
-### [Files](./Chapters/files.md) - Create, Read, Update, Delete
+### [Files](./Chapters/01-files.md) - Create, Read, Update, Delete
 * Create a new empty file
 * Create a new directory
 * View the contents of a file
@@ -31,7 +31,7 @@ PS	Windows Powershell
 * Delete a directory and all of its contents
 * Force delete file(s)
 
-### [Access Control](./Chapters/access-control.md) - Permissions and Ownership
+### [Access Control](./Chapters/03-access-control.md) - Permissions and Ownership
 * File and directory permissions
     * Permission Types
     * File Ownership
