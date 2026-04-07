@@ -18,3 +18,30 @@ Users can be members of multiple groups. Groups that are not the user's primary 
 
 Group IDs follow the same numbering convention as user IDs - service groups use 1-999, interactive groups use 1000+, and the root group uses GID 0.
 
+## Creating users
+
+### Advanced user creation
+
+* Default shell
+* Home folder
+* --system
+
+## Deleting users
+
+## Creating groups
+
+## Deleting groups
+
+## Adding users to groups
+
+## Password and access management
+
+## Privilige Escalation
+
+### The `sudo` command
+
+### The `sudo` group
+
+### Advanced `sudo` configurations
+
+### The `su` command
